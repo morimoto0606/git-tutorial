@@ -6,3 +6,4 @@
     - git commit -m : message付きでコミット
 
 ## feature-A
+    - add new comment
