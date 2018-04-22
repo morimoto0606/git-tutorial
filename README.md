@@ -7,3 +7,4 @@
     - Fix - B
 
 ## feature-A
+## feature-c
